@@ -1,0 +1,3 @@
+[submodule "k8s-workshop"]
+	path = k8s-workshop
+	url = git@github.com:reactiveops/k8s-workshop.git

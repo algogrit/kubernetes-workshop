@@ -1,0 +1,7 @@
+https://kubernetes.io/docs/reference/generated/kube-proxy/ => Can be used for health check
+
+https://github.com/reactiveops/rok8s-scripts
+
+https://github.com/coreos/etcd
+
+https://www.hashicorp.com/blog/hashicorp-vault-0-8-3
