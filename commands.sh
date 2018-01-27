@@ -40,6 +40,8 @@ kubectl get pods
 
   kubectl apply -f redis-primary.deployment.yml
 
+  kubectl delete pods redis-primary-2517341871-tm24m
+
   kubectl get deployments
 
   kubectl describe deployments
